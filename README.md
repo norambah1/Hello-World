@@ -1,3 +1,3 @@
 # Hello-World
-New to GitHub and trying to learn
+New to GitHub and trying to learn.
 learning is important
